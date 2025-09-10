@@ -126,23 +126,3 @@ file_prefix="SENSOR"
 ## 授權條款
 
 本專案使用 MIT 授權條款 - 詳見 [LICENSE](https://github.com/kuroneko11375/CSVDataMerger/blob/main/LICENSE) 檔案。
-
-## 更新紀錄
-
-### 版本 1.0.0
-
--   初始版本\
--   基本 CSV 合併功能\
--   圖形化資料夾選擇\
--   可自訂參數\
--   錯誤處理與提示
-
-## 支援
-
-若遇到問題或有疑問，請在 GitHub 上建立 issue。
-
-## 作者
-
-Your Name - your.email@example.com
-
-專案連結：<https://github.com/yourusername/csv-data-merger>
