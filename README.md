@@ -125,4 +125,4 @@ file_prefix="SENSOR"
 
 ## 授權條款
 
-本專案使用 MIT 授權條款 - 詳見 [LICENSE](https://github.com/kuroneko11375/CSVDataMerger/blob/main/LICENSE) 檔案。
+本專案使用 MIT 授權條款 [MIT Licence](https://github.com/kuroneko11375/CSVDataMerger/blob/main/LICENSE) 。
